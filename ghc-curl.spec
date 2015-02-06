@@ -5,7 +5,7 @@
 Summary:	Haskell curl library
 Name:		ghc-curl
 Version:	1.3.8
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Other
 Url:		http://hackage.haskell.org/package/%{module}
